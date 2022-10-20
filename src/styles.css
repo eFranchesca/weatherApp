@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+}
+background {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+background:hover {
+  opacity: 0.5;
+}
+
+h1 {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 0;
+}
+
+.container {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+#coordinates {
+  background-color: black;
+  outline: black;
+}
+#currentTime {
+  font-family: "Poppins", sans-serif;
+  list-style: none;
+  margin-top: 0;
+}
+.uvWarning {
+  font-family: "Poppins", sans-serif;
+  list-style: none;
+}
+.days {
+  font-family: "Poppins", sans-serif;
+  padding-left: 70px;
+  list-style: none;
+}
